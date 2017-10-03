@@ -19,7 +19,7 @@ import java.util.*;
 import java.util.regex.Pattern;
 
 /**
- * @author MagicDroidX
+ * @author NukkITA
  */
 public class PluginManager {
 
